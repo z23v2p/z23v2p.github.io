@@ -37,11 +37,11 @@ My name is Fengxu Liu.I am a student in School of Statistics and Management,Shan
 - *2023-2024*  Academic Year Second-Class People’s Scholarship (University-level) .
 
 # 📖 Educations
-- *2021.08 - 2025.07 (now)*  Economic Statistics(Finance Statistics and Risk Management),School of Statistics and Management,Shanghai University of Finance and Economics . 
+- *2021.08 - 2025.07 (now)*  Economic Statistics(Finance Statistics and Risk Management) , School of Statistics and Management , Shanghai University of Finance and Economics . 
 
 
 # 💬 Invited Talks
 
 
 # 💻 Internships
-- *2023.06 - 2023.08*  Huaan Securities Shanghai Branch, Intern, Corporate Business,Shanghai China.
+- *2023.06 - 2023.08*  Corporate Business , Huaan Securities Shanghai Branch , Shanghai China.
