@@ -21,7 +21,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 Hi there
-My name is Fengxu Liu.
+My name is Fengxu Liu.I am a student in School of Statistics and Management,Shanghai University of Finance and Economics 
 
 
 # 🔥 News
@@ -37,7 +37,7 @@ My name is Fengxu Liu.
 - *2023-2024*  Academic Year Second-Class People’s Scholarship (University-level) .
 
 # 📖 Educations
-- *2021.08 - 2025.07 (now)*  Shanghai University of Finance and Economics,School of Statistics and Management,Economic Statistics(Finance Statistics and Risk Management) . 
+- *2021.08 - 2025.07 (now)*  Economic Statistics(Finance Statistics and Risk Management),School of Statistics and Management,Shanghai University of Finance and Economics . 
 
 
 # 💬 Invited Talks
