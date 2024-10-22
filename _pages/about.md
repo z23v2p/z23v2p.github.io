@@ -21,7 +21,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 Hi there
-My name is Fengxu Liu.I am a student in School of Statistics and Management,SUFE. In my freshman year, I was a CS major.To better learn the specialized courses in finance or economics offered by SUFE,I decided to transfer to my current major in Economic Statistics (FSRM). Despite this, my passion for statistics and CS remains strong, particularly in fields such as machine learning, deep learning, and time series analysis. I am eager to continue deepening my knowledge in these fields and look forward to exploring new areas in the future☺️!
+My name is Fengxu Liu.I am a student in School of Statistics and Management,SUFE. In my freshman year, I was a CS major.To better learn the specialized courses in finance or economics offered by SUFE,I decided to transfer to my current major in Economic Statistics (FSRM). Despite this, my passion for statistics and CS remains strong, particularly in fields such as machine learning, deep learning, and time series analysis. I am eager to continue deepening my knowledge in these fields and look forward to exploring new areas in the future😊!
 
 Currently, I am studying the statistical learning theory, with a focus on algorithm stability. I am working on a research project related to this topic. Although the process has presented some challenges, I am continuing to make progress and remain committed to overcoming the obstacles 💪.
 
