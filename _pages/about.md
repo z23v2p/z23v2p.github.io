@@ -21,28 +21,28 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 Hi there
-My name is Fengxu Liu.I am a student in School of Statistics and Management,SUFE. In my freshman year, I was a CS major.To better learn the specialized courses in finance or economics offered by SUFE,I decided to transfer to my current major in Economic Statistics (FSRM). Despite this, my passion for statistics and CS remains strong, particularly in fields such as machine learning, deep learning, and time series analysis. I am eager to continue deepening my knowledge in these fields and look forward to exploring new areas in the future😊!
+My name is Fengxu Liu. I am currently a master’s student at the National University of Singapore.I am currently working with [Dr. Yihan Du](https://yihandu.github.io/) on reinforcement learning research.My research interest includes Machine Learning , Deep learning , Reinforcement learning , Muti-armed bandits.I aspire to pursue a PhD focusing on these directions.For my PhD, I aim to develop principled algorithms with theoretical guarantees and practical impact.
 
-Currently, I am studying the statistical learning theory, with a focus on algorithm stability. I am working on a research project related to this topic. Although the process has presented some challenges, I am continuing to make progress and remain committed to overcoming the obstacles 💪.
-
-In the long term, I aspire to pursue a PhD that combines exploring my areas of interest with solving real-world problems. For me, this is not only a way to enhance theoretical knowledge but also a process of innovation and driving societal progress❤️.
+I graduated from Shanghai University of Finance and Economics with a bachelor’s degree and from the School of Statistics and Data Science.
 
 At my personal page, I will share the process of working on some interesting open-source projects on GitHub. I will also post my original content, covering insights from my personal learning and research, hoping to exchange ideas and grow together with everyone!
 
 
 
-# 🔥 News
-- *2024.10.18* I successfully give my first group meeting presentation, where I discussed the paper Fine-Grained Analysis of Stability and Generalization for Stochastic Gradient Descent by Yunwen Lei and Yiming Ying.
+{% # 🔥 News %}
+
 
 
 # 🎖 Honors and Awards
-- *2021-2022*  Academic Year Second-Class People’s Scholarship (University-level) (Top 6%).
-- *2023*  Gaojiao Cup China Undergraduate Mathematical Contest in Modeling Second Prize (Province-level, Nov. 2023) .
+- *2024-2025*  Academic Year Second-Class People’s Scholarship (University-level) (Top 6%).
 - *2023-2024*  Academic Year Second-Class People’s Scholarship (University-level) (Top 6%).
+- *2023*  Gaojiao Cup China Undergraduate Mathematical Contest in Modeling Second Prize (Province-level, Nov. 2023) .
+- *2021-2022*  Academic Year Second-Class People’s Scholarship (University-level) (Top 6%).
 
 # 📖 Educations
 - *2021.08 - 2022.09* Computer Science and technology , School of Information Management and Engineering , Shanghai University of Finance and Economics . 
-- *2022.09 - 2025.07 (now)*  Economic Statistics(Finance Statistics and Risk Management) , School of Statistics and Management , Shanghai University of Finance and Economics . 
+- *2022.09 - 2025.07*  Economic Statistics(Finance Statistics and Risk Management) , School of Statistics and Data Science , Shanghai University of Finance and Economics . 
+- *2025.08 - 2027.08*  Data Science and Machine Learning , School of Science , National University of Singapore . 
 
 # 💻 Internships
 - *2023.06 - 2023.08*  Corporate Business , Huaan Securities Shanghai Branch , Shanghai China.
