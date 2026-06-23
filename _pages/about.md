@@ -46,9 +46,11 @@ At my personal page, I will share the process of working on some interesting ope
 
 # 💻 Internships
 - *2023.06 - 2023.08*  Corporate Business , Huaan Securities Shanghai Branch , Shanghai China.
+- *Jun.2025 – Present* Part-time RA (with Prof. Yihan Du) , Singapore University of Technology and Design (SUTD) , Singapore		
+
 
 # 📝 Publications 
-(None,but trying my best😇 )
+(None,but I am trying my best😇 )
 
 <!--# 💬 Invited Talks-->
 
